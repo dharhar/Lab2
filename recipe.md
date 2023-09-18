@@ -22,5 +22,8 @@
 - 1/2 tsp ground cinnamon
 - ...
 
+## Even More Additional Directions:
+1. consult ChatGPT to find a better recipe
+
 
 >>>>>>> origin/bob
