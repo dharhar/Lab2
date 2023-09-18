@@ -23,7 +23,5 @@
 - ...
 
 ## Even More Additional Directions:
-1. consult ChatGPT to find a better recipe
+1. consult ChatGPT to find better recipes
 
-
->>>>>>> origin/bob
